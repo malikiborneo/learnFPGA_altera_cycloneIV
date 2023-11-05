@@ -1,0 +1,11 @@
+|led_blinking
+led[0] << <GND>
+led[1] << <VCC>
+led[2] << <GND>
+led[3] << <VCC>
+led[4] << <GND>
+led[5] << <VCC>
+led[6] << <GND>
+led[7] << <VCC>
+
+
