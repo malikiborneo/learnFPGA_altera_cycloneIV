@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jun 25 01:22:20 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : beep
+Top-level Entity Name : beep
+Family : Cyclone IV E
+Total logic elements : 29
+    Total combinational functions : 29
+    Dedicated logic registers : 28
+Total registers : 28
+Total pins : 2
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
